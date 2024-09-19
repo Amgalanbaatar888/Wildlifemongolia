@@ -1,9 +1,11 @@
-import Header from "./components/Header";
+import Header from "./components/header/Header";
+import TopBar from "./components/topBar/TopBar";
 
 export default function Home() {
   return (
-    <div>
+    <>
+      <TopBar />
       <Header />
-    </div>
+    </>
   );
 }
