@@ -1,6 +1,6 @@
-import Logo from "./Logo";
 import { Mainmenu } from "./MainMenu";
 import MobileHeader from "../header/mobileHeader/index";
+import Logo from "./Logo";
 
 export default function Header() {
   return (

@@ -14,10 +14,10 @@ export default function TopBar() {
           <a href="">
             <FaFacebook />
           </a>
-          <a href="">
+          <a href="https://www.instagram.com/tumecotour/">
             <FaInstagram />
           </a>
-          <a href="">
+          <a href="https://www.youtube.com/channel/UCjq7-20-UJOwd1kFRmN40hg">
             <FaYoutube />
           </a>
         </div>

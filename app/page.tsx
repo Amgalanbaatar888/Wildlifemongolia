@@ -1,11 +1,9 @@
-import Header from "./components/header/Header";
-import TopBar from "./components/topBar/TopBar";
+import HeroSlider from "./components/hero/HeroSlider";
 
 export default function Home() {
   return (
     <>
-      <TopBar />
-      <Header />
+      <HeroSlider />
     </>
   );
 }
